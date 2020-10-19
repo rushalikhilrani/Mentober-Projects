@@ -1,3 +1,5 @@
+Below is a sample readme for your project.
+
 # Project Name
 Here provide a short one line description of your project
 
@@ -8,11 +10,11 @@ Mention a detailed description of your project. Include different features of th
 Mention the tech stack used for your project
 
 # Mentee
-Mention the full name of the mentee
+Mention the full name of the mentee\s\s
 Mention the github username (link) of the mentee
 
 # Mentor
-Mention the full name of the mentor
+Mention the full name of the mentor\s\s
 Mention the github username (link) of the mentor
 
 # Get started
